@@ -1,2 +1,2 @@
 # My-portfolio
-It's about your personal portfolio
+Simple portfolio using HTML and CSS
